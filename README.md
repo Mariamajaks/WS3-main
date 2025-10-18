@@ -53,26 +53,7 @@ http://localhost:5000/
 
 ---
 
-## Optional Screenshots
 
-Save screenshots in `screenshots/` folder:
-
-```
-screenshots/
-├─ console.png
-├─ table.png
-```
-
-Embed in README:
-
-```markdown
-![Console log](screenshots/console.png)
-![Browser table](screenshots/table.png)
-```
-
----
-
-## Submission Checklist
 
 * [ ] Console prints movie titles
 * [ ] Browser displays table with Title/Year, IMDb ID, Poster

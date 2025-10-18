@@ -1,0 +1,16 @@
+{
+  "name": "ws3-main",
+  "version": "1.0.0",
+  "description": "WS3 Main - OMDb Movie App (Express + Axios)",
+  "main": "movies.js",
+  "scripts": {
+    "start": "node movies.js"
+  },
+  "keywords": ["omdb", "movies", "express", "axios"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "express": "^5.1.0"
+  }
+}
